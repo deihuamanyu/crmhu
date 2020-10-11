@@ -11,7 +11,7 @@ public class CrmController {
     @RequestMapping("index")
     public String  index(){
 
-        System.out.println("访问成功");
+        System.out.println("国庆70周年");
         return "index";
     }
 }
